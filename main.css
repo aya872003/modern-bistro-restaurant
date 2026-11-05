@@ -81,17 +81,17 @@
 /* FIRST IMAGE */
 
 .slide1 {
-    background-image: url("./images/rest1\ .\ WPS\ PNG.PNG");
+    background-image: url("./images/rest1.PNG");
     animation-delay: 0s;
 }
 
 .slide2 {
-    background-image: url("./images/rest2.\ WPS\ PNG.PNG");
+    background-image: url("./images/rest2.PNG");
     animation-delay: 6s;
 }
 
 .slide3 {
-    background-image: url("./images/rest3.\ WPS\ PNG.PNG");
+    background-image: url("./images/rest3.PNG");
     animation-delay: 12s;
 }
 
